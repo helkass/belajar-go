@@ -1,0 +1,24 @@
+# ===== Go =====
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+/bin/
+/build/
+
+# ===== Env =====
+.env
+
+# ===== Air =====
+tmp/
+
+# ===== IDE =====
+.vscode/
+.idea/
+
+# ===== OS =====
+.DS_Store
